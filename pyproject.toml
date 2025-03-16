@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "my_project"
+version = "0.1.0"
+description = "Dự án của bạn"
+authors = ["Nguyễn Thành Dâng"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+transformers = "^4.0.0"
+langchain = "^0.1.0"
+langchain-community = "^0.1.0"
+pypdf = "^3.0.0"
+torch = "^2.0.0"
+sentence-transformers = "^2.0.0"
+gpt4all = "^2.0.0"
+faiss-cpu = "^1.7.0"
+openai = "^1.0.0"
